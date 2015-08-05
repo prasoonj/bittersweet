@@ -1,0 +1,19 @@
+{
+  "name": "bittersweet",
+  "version": "0.0.1",
+  "description": "Mood tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasoonj/bittersweet.git"
+  },
+  "author": "Prasoon (prasoonj@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prasoonj/bittersweet/issues"
+  },
+  "homepage": "https://github.com/prasoonj/bittersweet#readme"
+}
