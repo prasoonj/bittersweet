@@ -1,4 +1,5 @@
-var bittersweet = angular.module('bittersweet', ['ui.calendar']);
+var bittersweet = angular.module('bittersweet', ['ui.calendar', 'bittersweet.loginModule']);
+
 
 bittersweet.controller('mainController', ['$scope', function($scope){
 	/* config object */
